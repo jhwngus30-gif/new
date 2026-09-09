@@ -1,7 +1,8 @@
 무역 분석 대시보드
 사이드바에 국가 선택, 무역액 등급 선택(대,중,소) 필터
-baci_85_sample.csv
-country_codes_samples.csv
+baci_85_sample.csv 
+country_codes_samples.csv 사용
+streamlit 사용
 
 한글지원
 오른쪽 화면에는 
